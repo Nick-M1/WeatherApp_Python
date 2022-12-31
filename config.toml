@@ -1,0 +1,13 @@
+[openapi]
+apikey = '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'
+model = 'text-davinci-003'
+temperature = 0
+max_tokens = 1500
+image_num = 1               # Number of images created
+image_size = '512x512'      # Image size/res
+
+[openweather]
+apikey = "2f1909e43e150db3324361100e9e10e6"
+base_url = "http://api.openweathermap.org/data/2.5/"
+units = 'metric'                # or 'imperial'
+

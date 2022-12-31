@@ -2,6 +2,10 @@
 
 A messaging GUI and AI chatbot, which allows the user to ask questions about the weather in a specific city over the next 5 days.
 
+
+https://user-images.githubusercontent.com/91367903/210156072-0e9dbfa5-1dc6-4a6d-b965-6685a6fdebb7.mp4
+
+
 ### What is project uses:
 - Tkinter - Library to create the GUI
 - OpenWeatherAPI - To get data about the next 5 day's weather for a specific city
